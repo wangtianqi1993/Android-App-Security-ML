@@ -1,0 +1,13 @@
+closure-linter
+jsbeautifier
+androguard>=2.0
+flask
+flask-cache
+gevent
+gunicorn
+pymongo
+numpy
+scipy
+matplotlib
+scikit-learn
+beautifulsoup4
